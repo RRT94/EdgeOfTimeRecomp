@@ -1,3 +1,7 @@
+// platform/user_dirs.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 
 #if defined(_WIN32)
 #define WIN32_LEAN_AND_MEAN

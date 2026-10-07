@@ -1,3 +1,7 @@
+// platform/file_dialog.h
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 /**
  * @file    platform/file_dialog.h
  * @brief   Native open-file and open-folder dialogs, through SDL3.

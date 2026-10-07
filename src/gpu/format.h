@@ -1,3 +1,7 @@
+// gpu/format.h
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #pragma once
 
 #include <rex/graphics/xenos.h>

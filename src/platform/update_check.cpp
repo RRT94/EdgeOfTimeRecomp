@@ -1,3 +1,7 @@
+// platform/update_check.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "platform/update_check.h"
 
 #include <cstring>

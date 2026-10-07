@@ -1,3 +1,7 @@
+// platform/moltenvk.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #if defined(__APPLE__)
 
 #include "platform/moltenvk.h"

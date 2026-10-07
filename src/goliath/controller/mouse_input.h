@@ -1,3 +1,7 @@
+// goliath/controller/mouse_input.h
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #pragma once
 
 #include "core/export.h"

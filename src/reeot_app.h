@@ -1,3 +1,7 @@
+// reeot_app.h
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 /**
  * @file    reeot_app.h
  * @brief   The reeot host application: brings up the native renderer before

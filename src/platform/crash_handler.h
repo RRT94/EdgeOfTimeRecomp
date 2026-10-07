@@ -1,3 +1,7 @@
+// platform/crash_handler.h
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 /**
  * @file    platform/crash_handler.h
  * @brief   Last-chance host crash reporters.

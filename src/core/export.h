@@ -1,3 +1,7 @@
+// core/export.h
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #pragma once
 
 #if defined(_WIN32)

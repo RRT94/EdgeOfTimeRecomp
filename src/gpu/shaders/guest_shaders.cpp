@@ -1,3 +1,7 @@
+// gpu/shaders/guest_shaders.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "gpu/shaders/guest_shaders.h"
 
 #include <algorithm>

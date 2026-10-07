@@ -1,3 +1,7 @@
+// gamelogic/ui/achievements_page.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "gamelogic/ui/achievements_page.h"
 
 #include <algorithm>

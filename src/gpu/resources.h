@@ -1,3 +1,7 @@
+// gpu/resources.h
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #pragma once
 
 #include <memory>

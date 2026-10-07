@@ -1,3 +1,7 @@
+// core/critical_section.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include <atomic>
 #include <bit>
 #include <cstdint>

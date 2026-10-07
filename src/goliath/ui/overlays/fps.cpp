@@ -1,3 +1,7 @@
+// goliath/ui/overlays/fps.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "goliath/ui/overlays/fps.h"
 
 #include <algorithm>

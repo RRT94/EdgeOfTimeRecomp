@@ -1,3 +1,7 @@
+// gpu/vertex_layout.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "gpu/vertex_layout.h"
 
 #include <memory>

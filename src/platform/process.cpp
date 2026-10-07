@@ -1,3 +1,7 @@
+// platform/process.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "platform/process.h"
 
 #include <SDL3/SDL.h>

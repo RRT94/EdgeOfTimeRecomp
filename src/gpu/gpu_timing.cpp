@@ -1,3 +1,7 @@
+// gpu/gpu_timing.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "gpu/gpu_timing.h"
 
 #include <algorithm>

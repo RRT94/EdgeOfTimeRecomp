@@ -1,3 +1,7 @@
+// goliath/controller/mouse_input.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "goliath/controller/mouse_input.h"
 
 #include <algorithm>

@@ -1,3 +1,7 @@
+// gpu/patches/post_effects.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include <algorithm>
 #include <array>
 #include <atomic>

@@ -1,3 +1,7 @@
+// gpu/render_thread.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "gpu/render_thread.h"
 
 #include <algorithm>

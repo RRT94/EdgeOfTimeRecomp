@@ -1,3 +1,7 @@
+// platform/desktop_shortcut.h
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 /**
  * @file    platform/desktop_shortcut.h
  * @brief   A desktop shortcut to an executable (Windows).

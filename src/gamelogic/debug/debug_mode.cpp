@@ -1,3 +1,7 @@
+// gamelogic/debug/debug_mode.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include <cstdint>
 
 #include <rex/cvar.h>

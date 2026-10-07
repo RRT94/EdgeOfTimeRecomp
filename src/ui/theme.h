@@ -1,3 +1,7 @@
+// ui/theme.h
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 /**
  * @file    ui/theme.h
  * @brief   The chrome palette of the host ImGui overlays and the installer.

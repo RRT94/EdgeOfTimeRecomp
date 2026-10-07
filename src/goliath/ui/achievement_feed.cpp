@@ -1,3 +1,7 @@
+// goliath/ui/achievement_feed.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "goliath/ui/achievement_feed.h"
 
 #include <cstring>

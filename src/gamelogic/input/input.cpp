@@ -1,3 +1,7 @@
+// gamelogic/input/input.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include <algorithm>
 #include <atomic>
 #include <bit>

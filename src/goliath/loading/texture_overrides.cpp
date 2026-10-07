@@ -1,3 +1,7 @@
+// goliath/loading/texture_overrides.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "goliath/loading/texture_overrides.h"
 
 #include <cstdint>

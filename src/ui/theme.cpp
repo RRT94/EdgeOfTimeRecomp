@@ -1,3 +1,7 @@
+// ui/theme.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "ui/theme.h"
 
 #include "embedded.h"

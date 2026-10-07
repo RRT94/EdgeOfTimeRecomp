@@ -1,3 +1,7 @@
+// gpu/shaders/shader_cache_empty.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "shader_cache.h"
 
 ShaderCacheEntry g_shaderCacheEntries[1] = {};

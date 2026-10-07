@@ -1,3 +1,7 @@
+// mods/mod_manager.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #define EOT_MODS_HOST
 #include "mods/mod_manager.h"
 

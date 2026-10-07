@@ -1,3 +1,7 @@
+// main.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 // reeot - ReXGlue Recompiled Project
 //
 // This file is yours to edit. 'rexglue migrate' will NOT overwrite it.

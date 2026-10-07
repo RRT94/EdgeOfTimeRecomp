@@ -1,3 +1,7 @@
+// installer/install_registry.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "installer/install_registry.h"
 
 #include <cstdlib>

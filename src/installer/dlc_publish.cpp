@@ -1,3 +1,7 @@
+// installer/dlc_publish.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "installer/dlc_publish.h"
 
 #include <rex/filesystem/devices/stfs_container_device.h>

@@ -1,3 +1,7 @@
+// gamelogic/patches/game_patches.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include <cstdint>
 #include <string>
 

@@ -1,3 +1,7 @@
+// gpu/draw.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "gpu/draw.h"
 
 #include <unordered_map>

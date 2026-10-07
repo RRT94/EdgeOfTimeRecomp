@@ -1,3 +1,7 @@
+// installer/self_install.h
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 /**
  * @file    installer/self_install.h
  * @brief   Copying the program into the install folder.

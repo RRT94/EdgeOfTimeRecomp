@@ -1,3 +1,7 @@
+// installer/dlc_publish.h
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 /**
  * @file    installer/dlc_publish.h
  * @brief   The DLC packages an install keeps, published into a profile's

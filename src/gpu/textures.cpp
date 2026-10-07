@@ -1,3 +1,7 @@
+// gpu/textures.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "gpu/textures.h"
 #include "gpu/render_thread.h"
 

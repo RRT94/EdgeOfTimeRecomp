@@ -1,3 +1,7 @@
+// gpu/pipeline/pso_records.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "gpu/pipeline/pso_records.h"
 
 #include <algorithm>

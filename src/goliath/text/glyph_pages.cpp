@@ -1,3 +1,7 @@
+// goliath/text/glyph_pages.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "goliath/text/glyph_pages.h"
 
 #include <bit>

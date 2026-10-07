@@ -1,3 +1,7 @@
+// installer/self_install.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "installer/self_install.h"
 
 #include <algorithm>

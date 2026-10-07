@@ -1,3 +1,7 @@
+// platform/crash_handler.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "platform/crash_handler.h"
 
 #include <algorithm>

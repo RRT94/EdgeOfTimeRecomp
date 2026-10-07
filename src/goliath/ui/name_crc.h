@@ -1,3 +1,7 @@
+// goliath/ui/name_crc.h
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #pragma once
 
 #include <cstdint>

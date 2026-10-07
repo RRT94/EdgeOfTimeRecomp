@@ -1,3 +1,7 @@
+// installer/disc_install.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "installer/disc_install.h"
 
 #include <rex/filesystem.h>

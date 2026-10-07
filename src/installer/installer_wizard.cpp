@@ -1,3 +1,7 @@
+// installer/installer_wizard.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "installer/installer_wizard.h"
 #include "platform/display.h"
 

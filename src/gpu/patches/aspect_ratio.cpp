@@ -1,3 +1,7 @@
+// gpu/patches/aspect_ratio.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "gpu/patches/aspect_ratio.h"
 
 #include <array>

@@ -1,3 +1,7 @@
+// goliath/controller/bind_capture.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #define EOT_BINDS_HOST
 #include "goliath/controller/bind_capture.h"
 

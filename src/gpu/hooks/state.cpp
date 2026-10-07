@@ -1,3 +1,7 @@
+// gpu/hooks/state.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include <cstring>
 
 #include <rex/hook.h>

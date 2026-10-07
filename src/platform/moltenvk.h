@@ -1,3 +1,7 @@
+// platform/moltenvk.h
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #pragma once
 
 #if defined(__APPLE__)

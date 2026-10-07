@@ -1,3 +1,7 @@
+// gpu/device.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "gpu/device.h"
 #include "gpu/gpu_timing.h"
 #include "gpu/memory_report.h"

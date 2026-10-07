@@ -1,3 +1,7 @@
+// gpu/trace.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "gpu/trace.h"
 
 #include <atomic>

@@ -1,3 +1,7 @@
+// goliath/loading/reeot_package.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include <atomic>
 #include <cstdint>
 #include <cstring>

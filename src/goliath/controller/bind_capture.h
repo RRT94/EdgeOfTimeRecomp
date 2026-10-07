@@ -1,3 +1,7 @@
+// goliath/controller/bind_capture.h
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #pragma once
 
 #include "goliath/controller/pad_remap.h"

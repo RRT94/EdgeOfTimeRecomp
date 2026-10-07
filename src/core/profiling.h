@@ -1,3 +1,7 @@
+// core/profiling.h
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #pragma once
 
 #if defined(EOT_PROFILING) && defined(REXGLUE_ENABLE_PROFILING)

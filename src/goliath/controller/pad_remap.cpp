@@ -1,3 +1,7 @@
+// goliath/controller/pad_remap.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "goliath/controller/pad_remap.h"
 
 #include <array>

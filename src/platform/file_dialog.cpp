@@ -1,3 +1,7 @@
+// platform/file_dialog.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "platform/file_dialog.h"
 
 #include <SDL3/SDL.h>

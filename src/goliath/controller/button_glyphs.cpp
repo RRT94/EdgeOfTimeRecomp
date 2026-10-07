@@ -1,3 +1,7 @@
+// goliath/controller/button_glyphs.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "goliath/controller/button_glyphs.h"
 
 #include <atomic>

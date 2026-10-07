@@ -1,3 +1,7 @@
+// gpu/imgui_overlay.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "gpu/imgui_overlay.h"
 
 #include <algorithm>

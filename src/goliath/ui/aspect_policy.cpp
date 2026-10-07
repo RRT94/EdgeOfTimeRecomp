@@ -1,3 +1,7 @@
+// goliath/ui/aspect_policy.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "goliath/ui/aspect_policy.h"
 
 #include <algorithm>

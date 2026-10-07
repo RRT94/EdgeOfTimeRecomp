@@ -1,3 +1,7 @@
+// platform/fatal_dialog.h
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 /**
  * @file    platform/fatal_dialog.h
  * @brief   Blocking modal dialogs usable before presentation setup.

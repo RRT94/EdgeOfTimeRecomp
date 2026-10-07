@@ -1,3 +1,7 @@
+// gpu/frame_ring.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include <plume_render_interface.h>
 
 #include <algorithm>

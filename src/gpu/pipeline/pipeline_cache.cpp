@@ -1,3 +1,7 @@
+// gpu/pipeline/pipeline_cache.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "gpu/pipeline/pipeline_cache.h"
 
 #include <algorithm>

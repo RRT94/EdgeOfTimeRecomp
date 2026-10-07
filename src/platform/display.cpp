@@ -1,3 +1,7 @@
+// platform/display.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "platform/display.h"
 
 #include <cmath>

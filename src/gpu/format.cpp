@@ -1,3 +1,7 @@
+// gpu/format.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "gpu/format.h"
 
 #include <atomic>

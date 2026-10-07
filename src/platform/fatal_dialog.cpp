@@ -1,3 +1,7 @@
+// platform/fatal_dialog.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "platform/fatal_dialog.h"
 
 #include <string>

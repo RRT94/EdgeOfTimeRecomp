@@ -1,3 +1,7 @@
+// platform/process.h
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 /**
  * @file    platform/process.h
  * @brief   This process and other copies of it: the single-instance lock,

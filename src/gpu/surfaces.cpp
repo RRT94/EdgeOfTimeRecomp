@@ -1,3 +1,7 @@
+// gpu/surfaces.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include <algorithm>
 #include <cstring>
 #include <format>

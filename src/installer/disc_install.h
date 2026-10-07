@@ -1,3 +1,7 @@
+// installer/disc_install.h
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 /**
  * @file    installer/disc_install.h
  * @brief   The game's disc image, title update and content packages

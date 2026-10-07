@@ -1,3 +1,7 @@
+// installer/installer_music.cpp
+// Copyright Rien Gupta <rgupta9@scu.edu>
+// BSD 3-Clause
+
 #include "installer/installer_music.h"
 
 #include <algorithm>
