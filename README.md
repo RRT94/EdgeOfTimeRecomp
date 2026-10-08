@@ -1,5 +1,3 @@
-> [!CAUTION]
-> This project is in private development. Building from this source code from the repository will not build the game or get it working. A public release will be available October 4th
 
 > [!IMPORTANT]
 > This project does not include any game assets. 
@@ -22,9 +20,10 @@
 
 # EdgeOfTimeRecompiled
 
-EdgeOfTimeRecompiled is an unofficial PC port of the Xbox 360 version of "Spider-Man: Edge Of Time" created through the process of static recompilation. The port offers Windows, macOS, and Linux support with goals for numerous built-in enhancements such as high resolutions, ultrawide support, high frame rates, improved performance and modding.
+EdgeOfTimeRecompiled is an unofficial PC port of the Xbox 360 version of "Spider-Man: Edge Of Time" created through the process of static recompilation. The port offers Windows, macOS, and Linux support with goals for numerous built-in enhancements such as high resolutions, ultrawide support, high frame rates, improved performance and modding. EdgeOfTimeRecompiled uses the ReXGlue SDK to convert PowerPC Assembly to static C++ code that can be compiled to any platform, with a custom XenosRecomp fork to convert Xbox 360 Shaders from the compiled shader container to static shader code. 
 
-EdgeOfTimeRecompiled uses the ReXGlue SDK to convert PowerPC Assembly to static C++ code that can be compiled to any platform, with a custom XenosRecomp fork to convert Xbox 360 Shaders from the compiled shader container to static HLSL code. Given that the system is currently in development, there are no recommended or minimum settings designed at the moment, and no playtesters to confirm or deny any settings. As mentioned in rules, ***THERE IS NO OFFICIAL RELEASE AS OF JULY 2026, DO NOT TRUST ANYONE CLAIMING THEY HAVE A PC PORT***
+> [!IMPORTANT]
+> EdgeOfTimeRecompiled does not have any websites and only offers downloads via [GitHub Releases](https://github.com/goliathret/EdgeOfTimeRecomp/releases). Any other website is not affiliated and may be promoting AI-generated misinformation.
 
 
 ## Table of Contents
@@ -45,7 +44,7 @@ EdgeOfTimeRecompiled uses the ReXGlue SDK to convert PowerPC Assembly to static 
   - Apple: Any AppleSilicon Processor 
 - GPU with support for Direct3D 12.0 (Shader Model 6) or Vulkan 1.2:
   - NVIDIA: GeForce GT 730 (Kepler)
-  - Intel: HD Graphics 620 (Kaby Lake)
+  - Intel: UHD Graphics 630 (Kaby Lake)
   - Apple: Any AppleSilicon GPU thanks to MoltenVK
 - Memory:
   - 8 GB minimum
@@ -157,8 +156,9 @@ Other changes to Audio include an expanded page. It keeps the original FX, Voice
 
 ## Mods
 
-EdgeOfTimeRecompiled has a built-in Mods page on the Options bar (currently only shown while debug mode is on) or the CLI. **Pak Replacement** swaps out one of the game's packages in `Data`, while **Model Import** installs a custom costume package in place of the DLC suits. The original files are backed up to `mods/backup` before anything is replaced, so the **Restore** button always brings back the untouched game, and every change takes effect the next time the game starts. Translations are recommended to be installed via the CLI. For more info on this whole system [check out the Mods guide](/docs/MODS.md).
+### Unavailable until further notice
 
+<!-- EdgeOfTimeRecompiled has a built-in Mods page on the Options bar (currently only shown while debug mode is on) or the CLI. **Pak Replacement** swaps out one of the game's packages in `Data`, while **Model Import** installs a custom costume package in place of the DLC suits. The original files are backed up to `mods/backup` before anything is replaced, so the **Restore** button always brings back the untouched game, and every change takes effect the next time the game starts. Translations are recommended to be installed via the CLI. For more info on this whole system [check out the Mods guide](/docs/MODS.md). -->
 
 ## Building
 
@@ -166,7 +166,7 @@ EdgeOfTimeRecompiled has a built-in Mods page on the Options bar (currently only
 
 ## Notes
 
-EdgeOfTimeRecompiled is a project that was created by dozens of Spider-Man fans who all love the game. This project does not contain AI Generated "Vibe-Coded" content, nor contains AI Art assets or AI translations. We are not dismissive of AI Usage, but we have extreme limits and choose to be hesitant on accepting code that is developed without reversing at hand. For more about this, [Check out the Contributions Page here](/docs/CONTRIBUTING.md). 
+EdgeOfTimeRecompiled is a project that was created by a few Spider-Man fans who all love the game as well as contributions from other major repositories listed in the [Credits](#community-projects). This project does not contain AI Generated "Vibe-Coded" content, nor contains AI Art assets or AI translations. We are not dismissive of AI Usage, but we have extreme limits and choose to be hesitant on accepting code that is developed without reversing at hand. For more about this, [Check out the Contributions Page here](/docs/CONTRIBUTING.md). 
 
 If you have more questions about certain parts of the project and how we approaching certain subsystems (notably rendering), feel free to message us in our [Discord Server](https://discord.gg/PsReBEDDZX). We have spent a lot of time on this project, and are extremely excited to finally present the final product.
 
@@ -178,21 +178,26 @@ Huge thanks to everyone who's put time into this. EdgeOfTimeRecompiled wouldn't 
 * **[Graine25](https://github.com/Graine25)**: Creator of EdgeOfTimeRecompiled and maintainer of the ReXGlue SDK.
 * **[Serjar](https://www.youtube.com/channel/UCaCoblwXlhhZFoJVPc8L2cg)**: one of the few people outside of the original beenox dev team who knows EdgeOfTime like the back of their hand. A lot of the reversing, between understanding the PAK format and how it interacts in the game code, would not have been possible without his help.
 * **[Maff](https://github.com/spyrosadventure)**: created reversing notes on Skylanders SuperChargers Racing and developed a majority of the PKZLib pipeline we use to create custom PKZ's
+* **[hellomemy](https://x.com/KnowNoEvry)**: designer and artist behind all the suit overhauls. Responsible for giving the port its "remaster" feel.
+* **[Boma](https://github.com/goldislead)** -  fixed EdgeOfTime on Xenia-Edge/Canary and essentially is the biggest reason this project exists
+
 
 ### Playtesting & Support
-* **[hellomemy]()** -  Suit Designer
 * **[OMMAC](https://ko-fi.com/kujo892483)** -  Artwork Designer
 * **ManOfGallifrey** -  Playtester
 * **[FrankyBuster](https://github.com/FrankyBuster)** -  Playtester
-* **RRT94** -  Playtester
+* **[RRT94](https://github.com/RRT94)** -  Playtester
 * **[Hako](https://github.com/hakodev)** -  Playtester
 * **[CB1018ZR](https://github.com/CB1018ZR)** -  Playtester
-* **SSG** -  Playtester
-* **Tiny** -  Playtester
+* **[SSG](https://github.com/neosilv)** -  Playtester
+* **[Tiny](https://x.com/TinyJ3rr1ch0)** -  Playtester
 * **[KinglyNerd](https://github.com/kinglynerd33)** -  Playtester
 * **[Snap](https://github.com/SpiderHam959)** -  Playtester
 * **VinBin** -  Playtester
 * **Starlight** -  Playtester
+* **[DAHTribute](https://github.com/DAHTribute)** -  French Translator
+* **[BiRabittoh](https://github.com/birabittoh)** -  Italian Translator and Linux Dev
+* **[mrcmunir](https://github.com/mrcmunir)** -  Spanish Translator and Linux Dev
 
 ### Community Projects
 * The **[ReXGlue SDK](https://github.com/rexglue/rexglue-sdk)** team, for the toolchain this project is built on.
